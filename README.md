@@ -3,11 +3,7 @@ Study GIT Basic
 
 ++ Study GUT From Scrapth **
 
-1 Now switching to dev branch
-2 Now switching to dev branch
-3 Now switching to dev branch
-4 Now switching to dev branch 
-5 Now switching to dev branch
+There is not dev branch here !
 
 ++1 This is experimental repository branch for git tutorial
 ++2 This is experimental repository branch for git tutorial
